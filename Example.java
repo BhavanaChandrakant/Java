@@ -1,3 +1,4 @@
+/*INHERITANCE */
 class Creditcard
 {
     int cardNo=1234;
