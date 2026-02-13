@@ -1,3 +1,4 @@
+/* ENCAPSULATION */
 class Car
 {
    private String name;
